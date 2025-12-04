@@ -1,0 +1,7 @@
+{
+  "name": "Rehan School Voice Assistant",
+  "description": "An AI-powered voice assistant for Rehan School capable of conversing in Urdu and English, providing information on admissions, campuses, and tech-based education.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
